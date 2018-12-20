@@ -136,6 +136,7 @@ public class PretrazivacController implements Initializable  {
 
     }
 
+
     public void traziPritisnuto(ActionEvent actionEvent)  {
         dugmeTrazi.setDisable(true);
         dugmePrekini.setDisable(false);
