@@ -1,0 +1,54 @@
+.poljeIspravno {
+    -fx-control-inner-background: greenyellow;
+    -fx-text-fill: grey;
+}
+.poljeNijeIspravno {
+    -fx-control-inner-background: lightpink;
+    -fx-text-fill: grey;
+
+}
+.poljeNeutralno {
+    -fx-background-color: lightgrey;
+    -fx-text-fill: black;
+
+}
+
+.greyBtn{
+    -fx-background-color: grey;
+    -fx-text-fill: white;
+}
+
+#labelUzorak{
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+#gridOne{
+    -fx-background-color: black;
+}
+#listaPretrage{
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.list-view .list-cell:odd{
+    -fx-background-color: darkgrey;
+    -fx-text-fill: black;
+}
+
+.list-view .list-cell:even {
+    -fx-background-color: lightgrey;
+    -fx-text-fill: black;
+}
+
+#gridTwo{
+    -fx-background-color: black;
+}
+
+.labeleObavjestenja{
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.textBoxObavjestenja{
+    -fx-background-color: lightgrey;
+}
